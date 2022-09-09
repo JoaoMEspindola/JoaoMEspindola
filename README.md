@@ -1,5 +1,6 @@
 ## Olá, sou João Pedro Martins Espíndola
 🎓 4º Período de Engenharia da Computação pelo Cefet-MG
+
 🏠 Divinópolis(MG) - Brasil
 <div align="center">
   <a href="https://github.com/JoaoMEspindola">
