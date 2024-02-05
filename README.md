@@ -1,5 +1,5 @@
 ## Olá, sou João Pedro Martins Espíndola
-🎓 6º Período de Engenharia da Computação pelo Cefet-MG
+🎓 7º Período de Engenharia da Computação pelo Cefet-MG
 
 💻 Repositórios de diversos trabalhos e exercícios das disciplinas do curso
 <div align="center">
