@@ -4,7 +4,8 @@
 💻 Repositórios de diversos trabalhos e exercícios das disciplinas do curso
 <div align="center">
   <a href="https://github.com/JoaoMEspindola">
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=JoaoMEspindola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height=180
+src="https://github-readme-stats.vercel.app/api?username=JoaoMEspindola&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true"/>
   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMEspindola&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
