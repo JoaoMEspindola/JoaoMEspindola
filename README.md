@@ -1,7 +1,7 @@
 ## Olá, sou João Pedro Martins Espíndola
-🎓 10º Período de Engenharia da Computação pelo Cefet-MG
+🎓 Engenheiro da Computação pelo Cefet-MG
 
-💻 Repositórios de diversos trabalhos e exercícios das disciplinas do curso
+💻 Repositórios de diversos trabalhos das disciplinas do curso e pessoais
 <div align="center">
   <a href="https://github.com/JoaoMEspindola">
   <img height=180
